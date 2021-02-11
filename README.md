@@ -1,3 +1,5 @@
+#passBYTE
+
 👨‍💻 Clone/download the code to use the extension on your chrome browser. Follow the setps below to setup -     
 1. Download this code (& unzip if needed)
 2. Go to chrome & click on manage extensions from the extension icons group
