@@ -1,6 +1,6 @@
 👨‍💻 Clone/download the code to use the extension on your chrome browser. Follow the setps below to setup -     
 1. Download this code (& unzip if needed)
-2. Go to chrome & click on manage extensions from the extension icons group
+2. Go to chrome & click on manage extensions from the extension icons group or go to chrome://extensions
 3. Toggle the developer mode ON
 4. Click on "load unpacked" and locate to the root directory of your downloaded code
 5. Now you will be able to access the "passBYTE" option by going to extensions tab (puzzle icon on the right corner) 🎉
